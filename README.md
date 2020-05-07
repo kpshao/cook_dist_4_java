@@ -21,3 +21,4 @@ D_i=\frac{\varepsilon^2_i h_i}{s^2 p (1-h_i)^2},
 $$
 其中$s^2$为模型的均方误差MSE。
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
