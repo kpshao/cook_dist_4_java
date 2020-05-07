@@ -20,5 +20,5 @@ $y\in\mathbb{R}^n$, $X\in\mathbb{R}^{n \times p}$, $\beta \in \mathbb{R}^p$, $\v
 $$
 D_i=\frac{\varepsilon^2_i h_i}{s^2 p (1-h_i)^2},
 $$
-其中$s^2$为模型的均方误差MSE。
+其中$s^2$为模型的均方误差MSE，$h_i$为线性回归的投影矩阵(帽子矩阵)对角线上的第$i$个元素。
 
