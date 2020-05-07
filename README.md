@@ -1,4 +1,7 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # cook_dist_4_java
+
 计算一组用于线性拟合的观测数据的cook距离，以判断是否存在影响拟合结果的强影响点。
 
 ## Cook距离
@@ -21,4 +24,3 @@ D_i=\frac{\varepsilon^2_i h_i}{s^2 p (1-h_i)^2},
 $$
 其中$s^2$为模型的均方误差MSE。
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
