@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # cook_dist_4_java
 
 计算一组用于线性拟合的观测数据的cook距离，以判断是否存在影响拟合结果的强影响点。
